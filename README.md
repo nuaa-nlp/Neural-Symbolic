@@ -1,1 +1,2 @@
-# Symbolic
+# SymbolicNLP
+Symbolic AI, Reasoning 
